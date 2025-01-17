@@ -1,4 +1,3 @@
-I couldn't find specific files or documentation in the repository. Let's proceed with a basic README template based on the general structure of a machine learning project.
 
 ### README Template
 
